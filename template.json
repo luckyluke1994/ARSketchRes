@@ -1,0 +1,383 @@
+[
+  {
+    "id": "Aesthetics",
+    "name": "Aesthetics",
+    "thumb_url": "",
+    "is_vip": false,
+    "list_template": [
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/aesthetics/1.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/aesthetics/2.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/aesthetics/3.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/aesthetics/4.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/aesthetics/5.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/aesthetics/6.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/aesthetics/7.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/aesthetics/8.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/aesthetics/9.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/aesthetics/10.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/aesthetics/11.png"
+      }
+    ]
+  },
+  {
+    "id": "Animal",
+    "name": "Animal",
+    "thumb_url": "",
+    "is_vip": false,
+    "list_template": [
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/1.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/2.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/3.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/4.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/5.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/6.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/7.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/8.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/9.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/10.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/11.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/12.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/13.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/14.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/15.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/16.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/17.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/18.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/19.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/20.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/21.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/22.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/23.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/24.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/25.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/26.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/27.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/28.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/29.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/30.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/31.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/32.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/33.jpg"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_4.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_5.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_6.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_7.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_8.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_9.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_10.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_11.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_12.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_13.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_14.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_15.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_16.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_17.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_18.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_19.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_20.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_21.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_22.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_23.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_24.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_25.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_26.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_27.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_28.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_29.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_30.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_31.png"
+      },
+      {
+        "id": "",
+        "name": "",
+        "image_url": "https://github.com/luckyluke1994/ARSketchRes/blob/main/animal/animal_32.png"
+      }
+    ]
+  }
+]
