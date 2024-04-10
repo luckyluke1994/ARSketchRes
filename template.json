@@ -2866,7 +2866,7 @@
     "id": "Object",
     "name": "Object",
     "thumb_url": "",
-    "is_vip": true,
+    "is_vip": false,
     "list_template": [
       {
         "id": "",
@@ -2924,7 +2924,7 @@
     "id": "Outline",
     "name": "Outline",
     "thumb_url": "",
-    "is_vip": true,
+    "is_vip": false,
     "list_template": [
       {
         "id": "",
