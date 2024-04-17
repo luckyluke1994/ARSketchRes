@@ -1,0 +1,164 @@
+[
+  {
+    "startVersion": 1,
+    "styleId": "Van Gogh",
+    "iconUrl": "umagic/img_style/van_gogh.webp",
+    "desc": "masterpiece by Van Gogh",
+    "order": 4
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Illustration",
+    "iconUrl": "umagic/img_style/illustration.webp",
+    "desc": "illustration, minimalism, pastel background",
+    "order": 15
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Cinematic",
+    "iconUrl": "umagic/img_style/cinematic.webp",
+    "desc": "cinematic, cozy indoor lighting, unreal 5",
+    "order": 19
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Line Art",
+    "iconUrl": "umagic/img_style/line_art.webp",
+    "desc": "line art, black and white, illustration, white page",
+    "order": 9
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Sketch",
+    "iconUrl": "umagic/img_style/sketch.webp",
+    "desc": "black and white, hand drawn portrait, pencil sketch",
+    "order": 8
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Sci-fi",
+    "iconUrl": "umagic/img_style/sci-f.webp",
+    "desc": "sci-fi, futuristic, detailed, Liam Wong",
+    "order": 18
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Digital Game",
+    "iconUrl": "umagic/img_style/game_engine.webp",
+    "desc": "((Sci-fi, future, (game engine),))",
+    "order": 10
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Pop Art",
+    "iconUrl": "umagic/img_style/pop_art.webp",
+    "desc": "Roy Lichtenstein's iconic pop art style",
+    "order": 14
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Oil Painting",
+    "iconUrl": "umagic/img_style/oil_paint.webp",
+    "desc": "oil painting strokes, best quality, high resolution, original, extremely detailed wallpaper, perfect lighting, (extremely detailed CG:1.2), drawing",
+    "order": 6
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Pixel Art",
+    "iconUrl": "umagic/img_style/pixel_art.webp",
+    "desc": "the 32-bit pixel art renders",
+    "order": 23
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Chibi Art",
+    "iconUrl": "umagic/img_style/chibi_art.webp",
+    "desc": "character, chibi art, film lighting, soft shadows, rim lighting, Pixar animation",
+    "order": 16
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Childlike Drawing",
+    "iconUrl": "umagic/img_style/childlike_drawing.webp",
+    "desc": "illustrated children's drawing, in the style of SMBC, refraction",
+    "order": 17
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Hayao Miyazaki",
+    "iconUrl": "umagic/img_style/hayao_miyazaki.webp",
+    "desc": "character in Studio Ghibli, Hayao Miyazaki style",
+    "order": 22
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Knitted Pattern",
+    "iconUrl": "umagic/img_style/knitted.webp",
+    "desc": "Margo Selby, knitted tapestry",
+    "order": 27
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Cyberpunk",
+    "iconUrl": "umagic/img_style/cyberpunk.webp",
+    "desc": "detailed cyberpunk background with neon lights, biopunk, cybernetic, unreal engine, CGI, Syd Mead, Blade Runner, ultra-detailed, 4k",
+    "order": 12
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Salvador Dali",
+    "iconUrl": "umagic/img_style/salvador_dali.webp",
+    "desc": "masterpiece by Salvador Dali",
+    "order": 24
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Junji Ito",
+    "iconUrl": "umagic/img_style/junji_ito.webp",
+    "desc": "masterpiece byJunji Ito",
+    "order": 7
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Hokusai",
+    "iconUrl": "umagic/img_style/hokusai.webp",
+    "desc": "a painting in the style of Katsushika Hokusai ",
+    "order": 20
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Polaroid",
+    "iconUrl": "umagic/img_style/polaroid.webp",
+    "desc": "old polaroids photo",
+    "order": 13
+  },
+  {
+    "startVersion": 1,
+    "styleId": "3D Render",
+    "iconUrl": "umagic/img_style/3d_render.webp",
+    "desc": "3D, ultra-detailed, C4D, octane rendering, blender, 8k, HD",
+    "order": 11
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Fujifilm",
+    "iconUrl": "umagic/img_style/fujifilm.webp",
+    "desc": "8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3",
+    "order": 25
+  },
+  {
+    "startVersion": 1,
+    "styleId": "Frida Kahlo",
+    "iconUrl": "umagic/img_style/frida_kahlo.webp",
+    "desc": "masterpiece by Frida Kahlo",
+    "order": 21
+  },
+  {
+    "startVersion": 1,
+    "styleId": "City Pop",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  }
+]
+
