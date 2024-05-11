@@ -1,401 +1,1154 @@
 [
   {
     "name": "No Style",
-    "styleId": "nostyle",
-    "iconUrl": "umagic/img_style/van_gogh.webp",
-    "desc": "masterpiece by Van Gogh",
-    "order": 4
-  },
-  {
-    "name": "Cinematic",
-    "styleId": "cinematic",
-    "iconUrl": "umagic/img_style/illustration.webp",
-    "desc": "illustration, minimalism, pastel background",
-    "order": 15
-  },
-  {
-    "name": "Illustration",
-    "styleId": "illustration",
-    "iconUrl": "umagic/img_style/cinematic.webp",
-    "desc": "cinematic, cozy indoor lighting, unreal 5",
-    "order": 19
-  },
-  {
-    "name": "Sketch",
-    "styleId": "sketch",
-    "iconUrl": "umagic/img_style/line_art.webp",
-    "desc": "line art, black and white, illustration, white page",
-    "order": 9
+    "id": "nostyle",
+    "premium": false,
+    "string_style": "(x)",
+    "examples": [
+      "mutated creature, pastel color",
+      "hybrid between monkey and lion",
+      "a raccoon reading a newspaper",
+      "cat, vibrant pastel colors",
+      "avocado shaped chair",
+      "an amazing creature",
+      "black and white image of a beautiful landscape",
+      "3d isometric ancient temple",
+      "tent under the stars",
+      "an alien planet"
+    ]
   },
   {
     "name": "CreArt V1",
-    "styleId": "creartv1",
-    "iconUrl": "umagic/img_style/sketch.webp",
-    "desc": "black and white, hand drawn portrait, pencil sketch",
-    "order": 8
+    "id": "creartv1",
+    "premium": false,
+    "string_style": "(x), trending on artstation",
+    "examples": [
+      "mutated creature, pastel color",
+      "hybrid between monkey and lion",
+      "a raccoon reading a newspaper",
+      "cat, vibrant pastel colors",
+      "avocado shaped chair",
+      "floating island in the sky",
+      "black and white image of a beautiful landscape",
+      "3d isometric ancient temple",
+      "tent under the stars",
+      "an alien planet"
+    ]
+  },
+  {
+    "name": "Cinematic",
+    "id": "cinematic",
+    "premium": false,
+    "string_style": "(x), cinematic",
+    "examples": [
+      "a futuristic soldier eating in a bar",
+      "an alien in a room",
+      "an alien landscape",
+      "a robot in a junkyard",
+      "zombie robot",
+      "spaceship bedroom",
+      "exploration of an abandoned space station",
+      "jellyfish in an ocean of lights",
+      "an elven kingdom at night",
+      "a rainforest waterfall"
+    ]
   },
   {
     "name": "Realistic",
-    "styleId": "realistic",
-    "iconUrl": "umagic/img_style/sci-f.webp",
-    "desc": "sci-fi, futuristic, detailed, Liam Wong",
-    "order": 18
+    "id": "realistic",
+    "premium": true,
+    "string_style": "(x), photography",
+    "examples": [
+      "a robot in a junkyard",
+      "a lion looking at the camera",
+      "a mansion on a hill",
+      "an elven treehouse at night",
+      "old tree with a door in the trunk",
+      "jellyfish in an ocean of lights",
+      "spaceship bedroom",
+      "an oasis in the desert",
+      "a rainforest waterfall",
+      "erupting volcano"
+    ]
+  },
+  {
+    "name": "Illustration",
+    "id": "illustration",
+    "premium": false,
+    "string_style": "(x), Dan Mumford",
+    "examples": [
+      "a magical castle",
+      "an alien planet full of vegetation",
+      "explorer in a post apocalyptic world",
+      "an astronaut riding a horse",
+      "a robot in a junkyard",
+      "a sea monster",
+      "an oasis in the desert",
+      "a desert caravan under the stars",
+      "an astronaut on an alien planet",
+      "haunted forest at night"
+    ]
   },
   {
     "name": "Chromatic",
-    "styleId": "chromatic",
-    "iconUrl": "umagic/img_style/game_engine.webp",
-    "desc": "((Sci-fi, future, (game engine),))",
-    "order": 10
+    "id": "chromatic",
+    "premium": false,
+    "string_style": "(x), colorful chromatic",
+    "examples": [
+      "a cabin on a deserted island",
+      "mutated creature",
+      "cosmic apple",
+      "a portal to another universe",
+      "a dragon on a mountain",
+      "a unicorn in a river",
+      "a tornado of stars",
+      "a magical castle",
+      "a lighthouse during a storm",
+      "a car on the road"
+    ]
+  },
+  {
+    "name": "Sketch",
+    "id": "sketch",
+    "premium": false,
+    "string_style": "(x), pencil sketch drawing",
+    "examples": [
+      "a dragon on a mountain",
+      "a unicorn in a river",
+      "a cabin on a deserted island",
+      "a river in a post apocalyptic city",
+      "a magical castle",
+      "a ninja in mid leap",
+      "a nomad in a sandstorm",
+      "a lighthouse during a storm",
+      "an ancient village in the forest",
+      "a woman in a wool cap"
+    ]
   },
   {
     "name": "Colorful Sketch",
-    "styleId": "colorfulsketch",
-    "iconUrl": "umagic/img_style/pop_art.webp",
-    "desc": "Roy Lichtenstein's iconic pop art style",
-    "order": 14
+    "id": "colorfulsketch",
+    "premium": true,
+    "string_style": "(x), sketch drawing, Lisa Frank",
+    "examples": [
+      "a unicorn in a river",
+      "a magical castle",
+      "a bridge to another universe",
+      "an astronaut on an alien planet",
+      "pegasus in the clouds",
+      "a desert caravan under the stars",
+      "a sunken ship at the sea bottom",
+      "a cone ice cream",
+      "a toucan on a branch",
+      "a shelf full of cupcakes"
+    ]
   },
   {
     "name": "Colored Sketch",
-    "styleId": "coloredsketch",
-    "iconUrl": "umagic/img_style/oil_paint.webp",
-    "desc": "oil painting strokes, best quality, high resolution, original, extremely detailed wallpaper, perfect lighting, (extremely detailed CG:1.2), drawing",
-    "order": 6
+    "id": "coloredsketch",
+    "premium": true,
+    "string_style": "(x), colored sketch drawing",
+    "examples": [
+      "sea monster",
+      "a dragon on a mountain",
+      "a unicorn in a river",
+      "a cabin on a deserted island",
+      "a magical castle",
+      "a robot in a junkyard",
+      "a river in a post apocalyptic city",
+      "a nomad in a sandstorm",
+      "a lighthouse during a storm",
+      "an ancient village in the forest"
+    ]
   },
   {
     "name": "Watercolor",
-    "styleId": "watercolor",
-    "iconUrl": "umagic/img_style/pixel_art.webp",
-    "desc": "the 32-bit pixel art renders",
-    "order": 23
+    "id": "watercolor",
+    "premium": false,
+    "string_style": "(x), watercolor",
+    "examples": [
+      "a unicorn in a river",
+      "a magical castle",
+      "pirate ship in a sea",
+      "tent under the stars",
+      "an oasis in the desert",
+      "an astronaut on an alien planet",
+      "a desert caravan under the stars",
+      "an autumn forest",
+      "an alien planet full of vegetation",
+      "a cabin on a deserted island"
+    ]
   },
   {
     "name": "Grisaille",
-    "styleId": "grisaille",
-    "iconUrl": "umagic/img_style/chibi_art.webp",
-    "desc": "character, chibi art, film lighting, soft shadows, rim lighting, Pixar animation",
-    "order": 16
+    "id": "grisaille",
+    "premium": false,
+    "string_style": "(x), Yoji Shinkawa, grayscale watercolor",
+    "examples": [
+      "a unicorn in a river",
+      "a magical castle",
+      "a sunken ship at the sea bottom",
+      "haunted forest at night",
+      "room in a spaceship",
+      "haunted house on a hill",
+      "woman portrait",
+      "bear portrait",
+      "an old wooden cabin by a calm lake",
+      "japanese house in the woods"
+    ]
   },
   {
     "name": "Fluid Watercolor",
-    "styleId": "fluidwatercolor",
-    "iconUrl": "umagic/img_style/childlike_drawing.webp",
-    "desc": "illustrated children's drawing, in the style of SMBC, refraction",
-    "order": 17
+    "id": "fluidwatercolor",
+    "premium": false,
+    "string_style": "(x), carne griffiths",
+    "examples": [
+      "a unicorn in a river",
+      "a dragon on a mountain",
+      "portrait of a fox",
+      "a nomad in a sandstorm",
+      "a cabin on a deserted island",
+      "pirate ship in a sea",
+      "a magical castle",
+      "a lighthouse",
+      "an ancient village in the forest",
+      "a crocodile in the river"
+    ]
   },
   {
     "name": "Vivid Colors",
-    "styleId": "vividcolors",
-    "iconUrl": "umagic/img_style/hayao_miyazaki.webp",
-    "desc": "character in Studio Ghibli, Hayao Miyazaki style",
-    "order": 22
+    "id": "vividcolors",
+    "premium": true,
+    "string_style": "(x), Lisa Frank, artgerm",
+    "examples": [
+      "a unicorn in a river",
+      "a magical castle",
+      "a bridge to another universe",
+      "an astronaut on an alien planet",
+      "pegasus in the clouds",
+      "a desert caravan under the stars",
+      "a sunken ship at the sea bottom",
+      "a cone ice cream",
+      "a toucan on a branch",
+      "a shelf full of cupcakes"
+    ]
   },
   {
     "name": "Coloring Book",
-    "styleId": "coloringbook",
-    "iconUrl": "umagic/img_style/knitted.webp",
-    "desc": "Margo Selby, knitted tapestry",
-    "order": 27
+    "id": "coloringbook",
+    "premium": false,
+    "string_style": "(x), one line kawaii drawing, bw",
+    "examples": [
+      "a dragon on a mountain",
+      "a unicorn in a river",
+      "a cute baby fox in the forest",
+      "a bear in a cave",
+      "a smiling bee",
+      "a cabin on a deserted island",
+      "a swimming mermaid",
+      "a magical castle",
+      "a lighthouse during a storm",
+      "an ancient village in the forest"
+    ]
   },
   {
     "name": "Film Noir",
-    "styleId": "filmnoir",
-    "iconUrl": "umagic/img_style/cyberpunk.webp",
-    "desc": "detailed cyberpunk background with neon lights, biopunk, cybernetic, unreal engine, CGI, Syd Mead, Blade Runner, ultra-detailed, 4k",
-    "order": 12
+    "id": "filmnoir",
+    "premium": false,
+    "string_style": "(x), film noir",
+    "examples": [
+      "a dancing cat",
+      "a magical castle",
+      "a rat planning something evil",
+      "a silhouette of a woman",
+      "a poker game",
+      "a man on a foggy street",
+      "woman with a flower crown",
+      "snow monster on a snowy mountain",
+      "a house in a mythical forest",
+      "explorer in a post apocalyptic world"
+    ]
   },
   {
     "name": "Kawaii",
-    "styleId": "kawaii",
-    "iconUrl": "umagic/img_style/salvador_dali.webp",
-    "desc": "masterpiece by Salvador Dali",
-    "order": 24
+    "id": "kawaii",
+    "premium": false,
+    "string_style": "(x), kawaii",
+    "examples": [
+      "baby dragon",
+      "cute mushroom with face",
+      "a lion",
+      "sphinx",
+      "a cat",
+      "a sea monster",
+      "an elephant",
+      "cute robot",
+      "dog portrait",
+      "cat portrait"
+    ]
   },
   {
     "name": "Anime",
-    "styleId": "anime",
-    "iconUrl": "umagic/img_style/junji_ito.webp",
-    "desc": "masterpiece byJunji Ito",
-    "order": 7
+    "id": "anime",
+    "premium": false,
+    "string_style": "(x), anime, cinematic, artgerm",
+    "examples": [
+      "woman in a pink sweater",
+      "woman portrait",
+      "a magical castle",
+      "geisha in a flower garden",
+      "woman with a flower crown",
+      "ramen shop in tokyo",
+      "cute house in a mythical forest",
+      "explorer in a post apocalyptic world",
+      "snow monster on a snowy mountain",
+      "exploration of an abandoned space station"
+    ]
   },
   {
     "name": "Anime V2",
-    "styleId": "animev2",
-    "iconUrl": "umagic/img_style/hokusai.webp",
-    "desc": "a painting in the style of Katsushika Hokusai ",
-    "order": 20
+    "id": "animev2",
+    "premium": true,
+    "string_style": "(x), anime, color sketch, artgerm",
+    "examples": [
+      "woman portrait",
+      "woman in a pink sweater",
+      "a magical castle",
+      "geisha in a flower garden",
+      "woman with a flower crown",
+      "ramen shop in tokyo",
+      "cute house in a mythical forest",
+      "explorer in a post apocalyptic world",
+      "snow monster on a snowy mountain",
+      "exploration of an abandoned space station"
+    ]
   },
   {
     "name": "Anime V3",
-    "styleId": "animev3",
-    "iconUrl": "umagic/img_style/polaroid.webp",
-    "desc": "old polaroids photo",
-    "order": 13
+    "id": "animev3",
+    "premium": true,
+    "string_style": "(x), colored manga",
+    "examples": [
+      "woman portrait",
+      "woman in a pink sweater",
+      "a magical castle",
+      "geisha in a flower garden",
+      "woman with a flower crown",
+      "ramen shop in tokyo",
+      "cute house in a mythical forest",
+      "explorer in a post apocalyptic world",
+      "snow monster on a snowy mountain",
+      "exploration of an abandoned space station"
+    ]
   },
   {
     "name": "Anime V4",
-    "styleId": "animev4",
-    "iconUrl": "umagic/img_style/3d_render.webp",
-    "desc": "3D, ultra-detailed, C4D, octane rendering, blender, 8k, HD",
-    "order": 11
+    "id": "animev4",
+    "premium": false,
+    "string_style": "(x), bw manga",
+    "examples": [
+      "woman portrait",
+      "woman in a pink sweater",
+      "a magical castle",
+      "geisha in a flower garden",
+      "woman with a flower crown",
+      "ramen shop in tokyo",
+      "cute house in a mythical forest",
+      "explorer in a post apocalyptic world",
+      "snow monster on a snowy mountain",
+      "exploration of an abandoned space station"
+    ]
   },
   {
     "name": "Classic Cartoon",
-    "styleId": "classiccartoon",
-    "iconUrl": "umagic/img_style/fujifilm.webp",
-    "desc": "8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3",
-    "order": 25
+    "id": "classiccartoon",
+    "premium": true,
+    "string_style": "(x), disney, artgerm",
+    "examples": [
+      "snow monster on a snowy mountain",
+      "cheerful robot serving coffee",
+      "a magical castle",
+      "woman portrait",
+      "robot in a junkyard",
+      "sea monster",
+      "knight in shining armor",
+      "haunted house on a hill",
+      "dinosaur in the forest",
+      "an alien planet"
+    ]
   },
   {
     "name": "Kids Cartoon",
-    "styleId": "kidscartoon",
-    "iconUrl": "umagic/img_style/frida_kahlo.webp",
-    "desc": "masterpiece by Frida Kahlo",
-    "order": 21
+    "id": "kidscartoon",
+    "premium": false,
+    "string_style": "(x), kids cartoon",
+    "examples": [
+      "baby dragon",
+      "a unicorn in a river",
+      "a magical castle",
+      "woman portrait",
+      "cheerful robot serving coffee",
+      "bear inside a cave",
+      "pirate ship in a rough sea",
+      "a sea monster",
+      "an astronaut on an alien planet",
+      "snow monster on a snowy mountain"
+    ]
   },
   {
     "name": "Pixel Art HD",
-    "styleId": "pixelarthd",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "pixelarthd",
+    "premium": true,
+    "string_style": "(x), pixel art, highly detailed, 4k",
+    "examples": [
+      "a house in the forest",
+      "a sea monster",
+      "a unicorn in a river",
+      "the entrance to hell",
+      "a magical castle",
+      "a lion looking at the camera",
+      "an ancient village in the forest",
+      "room in a spaceship",
+      "magical forest at night",
+      "haunted house on a hill"
+    ]
   },
   {
     "name": "Pixel Art",
-    "styleId": "pixelart",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "pixelart",
+    "premium": false,
+    "string_style": "(x), pixel art",
+    "examples": [
+      "a house in the forest",
+      "a sea monster",
+      "a unicorn in a river",
+      "the entrance to hell",
+      "a magical castle",
+      "a lion looking at the camera",
+      "an ancient village in the forest",
+      "room in a spaceship",
+      "magical forest at night",
+      "haunted house on a hill"
+    ]
   },
   {
     "name": "Color Comic",
-    "styleId": "colorcomic",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "colorcomic",
+    "premium": false,
+    "string_style": "(x), color comic",
+    "examples": [
+      "a medieval castle",
+      "woman portrait",
+      "an oasis in the desert",
+      "tent under the stars",
+      "ancient ruins covered with vegetation",
+      "robot in a junkyard",
+      "an astronaut on an alien planet",
+      "tropical beach at sunrise",
+      "a desert caravan under the stars",
+      "room in a spaceship"
+    ]
   },
   {
     "name": "B&W Comic",
-    "styleId": "bwcomic",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "bwcomic",
+    "premium": true,
+    "string_style": "(x), bw comic",
+    "examples": [
+      "a medieval castle",
+      "man portrait",
+      "zombie robot",
+      "dinosaur in the forest",
+      "an oasis in the desert",
+      "tent under the stars",
+      "jungle temple covered in vines",
+      "a lighthouse during a storm",
+      "an astronaut on an alien planet",
+      "room in a spaceship"
+    ]
   },
   {
     "name": "Pop Art",
-    "styleId": "popart",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "popart",
+    "premium": false,
+    "string_style": "(x), pop art",
+    "examples": [
+      "a unicorn in a river",
+      "alien costume",
+      "a bear in a river",
+      "woman portrait",
+      "sphinx",
+      "car on the road",
+      "vanilla cupcake",
+      "erupting volcano",
+      "haunted house on a hill",
+      "room in a spaceship"
+    ]
   },
   {
     "name": "Poster",
-    "styleId": "poster",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "poster",
+    "premium": true,
+    "string_style": "(x), Shepard Fairey",
+    "examples": [
+      "a magical castle",
+      "bear in the forest",
+      "woman with glasses and aviator helmet",
+      "a unicorn in a river",
+      "pirate ship in a rough sea",
+      "zombie robot",
+      "a sea monster",
+      "an alien planet",
+      "witch brewing a potion",
+      "a desert caravan under the stars"
+    ]
   },
   {
     "name": "Psychedelic",
-    "styleId": "psychedelic",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "psychedelic",
+    "premium": true,
+    "string_style": "(x), psychedelic, Alex Gray",
+    "examples": [
+      "a unicorn in a river",
+      "cosmic cat",
+      "woman portrait",
+      "sphinx",
+      "zombie robot",
+      "a bridge to another universe",
+      "an astronaut on an alien planet",
+      "cascade of stars in a mystical forest",
+      "jellyfish in an ocean of lights",
+      "oasis of fire in a desert of ice"
+    ]
   },
   {
     "name": "Dream",
-    "styleId": "dream",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "dream",
+    "premium": false,
+    "string_style": "(x), josephine wall",
+    "examples": [
+      "a magical castle",
+      "snow monster on a snowy mountain",
+      "an alien planet full of vegetation",
+      "haunted forest at night",
+      "jungle temple covered in vines",
+      "an oasis in the desert",
+      "woman sitting on a throne",
+      "pegasus in the clouds",
+      "jellyfish in an ocean of lights",
+      "cascade of stars in a mystical forest"
+    ]
   },
   {
     "name": "Fantasy",
-    "styleId": "fantasy",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "fantasy",
+    "premium": true,
+    "string_style": "(x), Dan Mumford, josephine wall, Yoji Shinkawa, artgerm",
+    "examples": [
+      "snow monster on a snowy mountain",
+      "futuristic cityscape",
+      "a unicorn in a river",
+      "an alien planet full of life",
+      "a magical castle",
+      "a monster in a cavern",
+      "haunted house on a hill",
+      "an alien planet full of vegetation",
+      "an astronaut on an alien planet",
+      "haunted forest at night"
+    ]
   },
   {
     "name": "Mystical",
-    "styleId": "mystical",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "mystical",
+    "premium": false,
+    "string_style": "(x), james r eads",
+    "examples": [
+      "stairs that lead to infinity",
+      "cascade of stars in a mystical forest",
+      "a magical castle",
+      "an alien planet full of vegetation",
+      "an oasis in the desert",
+      "astronaut floating in space",
+      "cosmic cat",
+      "a desert caravan under the stars",
+      "a sea monster",
+      "zombie robot"
+    ]
   },
   {
     "name": "Game",
-    "styleId": "game",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "game",
+    "premium": true,
+    "string_style": "(x), league of legends, cinematic, artgerm",
+    "examples": [
+      "a magical castle",
+      "woman casting a spell",
+      "a futuristic car in a road",
+      "futuristic cityscape",
+      "zombie robot",
+      "witch brewing a potion",
+      "robot portrait",
+      "snow monster on a snowy mountain",
+      "a space station",
+      "room in a spaceship"
+    ]
   },
   {
     "name": "Neon",
-    "styleId": "neon",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "neon",
+    "premium": false,
+    "string_style": "(x), neon silhouette",
+    "examples": [
+      "robot portrait",
+      "a rabbit in a forest",
+      "a hamburger",
+      "a dragon on a mountain",
+      "a lion face",
+      "a sea monster",
+      "a car",
+      "a magical castle",
+      "a cabin on a deserted island",
+      "a lighthouse"
+    ]
   },
   {
     "name": "Cyberpunk Cartoon",
-    "styleId": "cyberpunkcartoon",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "cyberpunkcartoon",
+    "premium": false,
+    "string_style": "(x), neonpunk, cartoon",
+    "examples": [
+      "a car on the road",
+      "sphinx",
+      "woman studing",
+      "a magical castle",
+      "cheerful robot serving coffee",
+      "futuristic cityscape",
+      "a robot in a junkyard",
+      "mysterious door at the end of a stairway",
+      "room in a spaceship",
+      "a bridge to another universe"
+    ]
   },
   {
     "name": "Synthwave",
-    "styleId": "synthwave",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "synthwave",
+    "premium": false,
+    "string_style": "(x), synthwave, vaporwave",
+    "examples": [
+      "a car on the road",
+      "a unicorn in a river",
+      "a magical castle",
+      "a boat in a port",
+      "robot portrait",
+      "a bridge to another universe",
+      "an oasis in the desert",
+      "futuristic cityscape",
+      "a desert caravan under the stars",
+      "astronaut on an alien planet"
+    ]
   },
   {
     "name": "Cyberpunk",
-    "styleId": "cyberpunk",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "cyberpunk",
+    "premium": true,
+    "string_style": "(x), cyberpunk, hdr",
+    "examples": [
+      "a car on the road",
+      "sphinx",
+      "woman studing",
+      "a magical castle",
+      "cheerful robot serving coffee",
+      "futuristic cityscape",
+      "a robot in a junkyard",
+      "mysterious door at the end of a stairway",
+      "room in a spaceship",
+      "a bridge to another universe"
+    ]
   },
   {
     "name": "Gothic Futurism",
-    "styleId": "gothicfuturism",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "gothicfuturism",
+    "premium": false,
+    "string_style": "(x), blade runner, Philippe Druillet",
+    "examples": [
+      "a robot in a junkyard",
+      "an alien landscape with buildings",
+      "an alien house",
+      "an astronaut on an alien planet",
+      "zombie robot",
+      "a car on the road",
+      "futuristic cityscape",
+      "sphinx",
+      "a mansion on a hill",
+      "room in a spaceship"
+    ]
   },
   {
     "name": "Surrealism",
-    "styleId": "surrealism",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "surrealism",
+    "premium": true,
+    "string_style": "(x), surrealism, dali painting",
+    "examples": [
+      "a bridge to another universe",
+      "room in a spaceship",
+      "a unicorn in a river",
+      "a magical castle",
+      "the entrance to hell",
+      "a bear in a cave",
+      "a robot in a junkyard",
+      "haunted house on a hill",
+      "an astronaut on an alien planet",
+      "an alien planet full of vegetation"
+    ]
   },
   {
     "name": "Retro Futurism",
-    "styleId": "retrofuturism",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "retrofuturism",
+    "premium": true,
+    "string_style": "(x), retro futurism, Anton Fadeev, artgerm",
+    "examples": [
+      "robot portrait",
+      "a bridge to another universe",
+      "futuristic cityscape",
+      "an astronaut on an alien planet",
+      "room in a spaceship",
+      "an alien building",
+      "a coffee shop",
+      "mysterious door at the end of a stairway",
+      "a car on the road",
+      "a mansion on a hill"
+    ]
   },
   {
     "name": "Dark Surrealism",
-    "styleId": "darksurrealism",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "darksurrealism",
+    "premium": false,
+    "string_style": "(x), dali, Andy Kehoe, artgerm",
+    "examples": [
+      "zombie robot",
+      "a landscape of floating cubes",
+      "a rabbit looking at the camera",
+      "a magical castle",
+      "robot portrait",
+      "an alien house",
+      "new york city",
+      "a bridge to another universe",
+      "an alien planet full of vegetation",
+      "stairs that lead to infinity"
+    ]
   },
   {
     "name": "Pop Surrealism",
-    "styleId": "popsurrealism",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "popsurrealism",
+    "premium": false,
+    "string_style": "(x), James Jean, pop art",
+    "examples": [
+      "woman aviator",
+      "a lion looking at the camera",
+      "zombie robot",
+      "pig dancing",
+      "a landscape of floating cubes",
+      "floating island in the sky",
+      "the entrance to hell",
+      "an alien planet full of vegetation",
+      "tropical bird in the jungle",
+      "cavern filled with exotic plants"
+    ]
   },
   {
     "name": "Van Gogh",
-    "styleId": "vangogh",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "vangogh",
+    "premium": true,
+    "string_style": "(x), postimpressionism, van gogh painting",
+    "examples": [
+      "witch brewing a potion",
+      "bike parked on a bridge",
+      "zombie robot",
+      "an oasis in the desert",
+      "a bridge in the river",
+      "an astronaut on an alien planet",
+      "snow covered mountains under a sunset sky",
+      "a desert caravan under the stars",
+      "lush vineyard under the sun",
+      "a sea monster"
+    ]
   },
   {
     "name": "Impressionism",
-    "styleId": "impressionism",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "impressionism",
+    "premium": false,
+    "string_style": "(x), impressionism, Claude Monet painting",
+    "examples": [
+      "witch brewing a potion",
+      "a bridge in the river",
+      "a magical castle",
+      "woman with hat",
+      "an oasis in the desert",
+      "old lighthouse by the sea",
+      "an alien planet full of vegetation",
+      "snow covered mountains under a sunset sky",
+      "an ancient village in the forest",
+      "a river full of water lilies at dusk"
+    ]
   },
   {
     "name": "Expressionism",
-    "styleId": "expressionism",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "expressionism",
+    "premium": false,
+    "string_style": "(x), expressionism, Edvard Munch painting",
+    "examples": [
+      "witch brewing a potion",
+      "a magical castle",
+      "an oasis in the desert",
+      "mermaid on a rock",
+      "a sea monster",
+      "a lighthouse during a storm",
+      "a desert caravan under the stars",
+      "erupting volcano",
+      "an astronaut on an alien planet",
+      "snow covered mountains under a sunset sky"
+    ]
   },
   {
     "name": "Renaissance",
-    "styleId": "renaissance",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "renaissance",
+    "premium": true,
+    "string_style": "(x), leonardo da vinci painting",
+    "examples": [
+      "a magical castle",
+      "an oasis in the desert",
+      "a bear in a cave",
+      "a sea monster",
+      "old tree with a door in the trunk",
+      "a robot in a junkyard",
+      "an astronaut on an alien planet",
+      "a dragon in a cave",
+      "erupting volcano",
+      "a cabin on a deserted island"
+    ]
   },
   {
     "name": "Cubism",
-    "styleId": "cubism",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "cubism",
+    "premium": false,
+    "string_style": "(x), cubism, picasso painting",
+    "examples": [
+      "a magical castle",
+      "woman portrait",
+      "a car on the road",
+      "safari animals",
+      "room in a spaceship",
+      "a boat in a port",
+      "an oasis in the desert",
+      "a cabin on a deserted island",
+      "old tree with a door in the trunk",
+      "snow covered mountains under a sunset sky"
+    ]
   },
   {
     "name": "Ukiyo-e",
-    "styleId": "ukiyoe",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "ukiyoe",
+    "premium": false,
+    "string_style": "(x), ukiyo e",
+    "examples": [
+      "a sea monster",
+      "bear in the forest",
+      "a car on the road",
+      "geisha in a flower garden",
+      "the entrance to hell",
+      "a rainforest waterfall",
+      "gourmet chef in a bustling kitchen",
+      "old lighthouse by the sea",
+      "erupting volcano",
+      "fruit and vegetable market"
+    ]
   },
   {
     "name": "Art Deco",
-    "styleId": "artdeco",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "artdeco",
+    "premium": true,
+    "string_style": "(x), art deco, artgerm",
+    "examples": [
+      "architectural design",
+      "a boat in a port",
+      "man portrait",
+      "robot portrait",
+      "an alien house",
+      "a car on the road",
+      "futuristic cityscape",
+      "underground cavern with glowing crystals",
+      "a desert caravan",
+      "stylized night urban landscape with skyscrapers"
+    ]
   },
   {
     "name": "Naïve Art",
-    "styleId": "naiveart",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "naiveart",
+    "premium": true,
+    "string_style": "(x), naive art",
+    "examples": [
+      "a magical castle",
+      "a dinosaur in the forest",
+      "jungle temple covered in vines",
+      "an alien planet",
+      "a rainforest waterfall",
+      "a cabin on a deserted island",
+      "an elven treehouse at night",
+      "witch brewing a potion",
+      "marine coral",
+      "fruit and vegetable market"
+    ]
   },
   {
     "name": "Sticker",
-    "styleId": "sticker",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "sticker",
+    "premium": false,
+    "string_style": "(x), sticker",
+    "examples": [
+      "hedgehog with sunglasses",
+      "zombie robot",
+      "sphinx",
+      "ninja in mid-leap",
+      "a sea monster",
+      "an astronaut on an alien planet",
+      "polar bear on a floating iceberg",
+      "a lion",
+      "dog portrait",
+      "cat portrait"
+    ]
   },
   {
     "name": "Vector Art",
-    "styleId": "vectorart",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "vectorart",
+    "premium": false,
+    "string_style": "(x), vector art",
+    "examples": [
+      "robot face icon",
+      "lion face, black and white icon",
+      "a cone ice cream",
+      "a toucan on a branch",
+      "tropical bird in the jungle",
+      "an alien planet full of vegetation",
+      "haunted house on a hill",
+      "jellyfish in an ocean of lights",
+      "a magical castle",
+      "woman portrait"
+    ]
   },
   {
     "name": "Origami",
-    "styleId": "origami",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "origami",
+    "premium": false,
+    "string_style": "(x), origami",
+    "examples": [
+      "lion",
+      "dinosaur in the forest",
+      "dragon",
+      "sphinx",
+      "zombie robot",
+      "a bear in a cave",
+      "a sea monster",
+      "a magical castle",
+      "polar bear on a floating iceberg",
+      "haunted house on a hill"
+    ]
   },
   {
     "name": "Paper Cut",
-    "styleId": "papercut",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "papercut",
+    "premium": false,
+    "string_style": "(x), papercut, paper quilling",
+    "examples": [
+      "a bridge to another universe",
+      "a unicorn in a river",
+      "a bear in a cave",
+      "ballet dancer",
+      "a sea monster",
+      "an oasis in the desert",
+      "mermaid in the sea",
+      "an astronaut on an alien planet",
+      "an alien planet full of vegetation",
+      "lion in the savannah"
+    ]
   },
   {
     "name": "Wool",
-    "styleId": "wool",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "wool",
+    "premium": false,
+    "string_style": "(x), wool amigurumi, photo studio",
+    "examples": [
+      "a dinosaur in the forest",
+      "a lion looking at the camera",
+      "a colored unicorn in the forest",
+      "a dragon in a cave",
+      "baby elephant",
+      "zombie robot",
+      "haunted house on a hill",
+      "a magical castle",
+      "a sea monster",
+      "an alien"
+    ]
   },
   {
     "name": "Textile",
-    "styleId": "textile",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "textile",
+    "premium": true,
+    "string_style": "(x), cross stitch, textile",
+    "examples": [
+      "mermaid on a rock",
+      "a sea monster",
+      "an astronaut on an alien planet",
+      "tropical beach at sunrise",
+      "a cabin on a deserted island",
+      "a toucan on a branch",
+      "pirate ship in a rough sea",
+      "bike parked on a bridge",
+      "a desert caravan under the stars",
+      "flamenco dancer"
+    ]
   },
   {
     "name": "Porcelain Figurine",
-    "styleId": "porcelainfigurine",
-    "iconUrl": "umagic/img_style/city_pop.webp",
-    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
-    "order": 26
+    "id": "porcelainfigurine",
+    "premium": false,
+    "string_style": "(x), ornamental porcelain miniature, photo studio",
+    "examples": [
+      "a unicorn",
+      "a sea monster",
+      "a magical castle",
+      "a red pig",
+      "a dragon",
+      "a bull",
+      "sphinx",
+      "pegasus in the clouds",
+      "an elegant carriage",
+      "chinese pot"
+    ]
+  },
+  {
+    "name": "Stained Glass",
+    "id": "stainedglass",
+    "premium": false,
+    "string_style": "(x), stained glass",
+    "examples": [
+      "pegasus in the clouds",
+      "a unicorn in a river",
+      "zombie robot",
+      "pirate ship in a rough sea",
+      "mermaid on a rock",
+      "a tiny finch on a branch",
+      "snow covered mountains",
+      "an astronaut on an alien planet",
+      "jellyfish in an ocean of lights",
+      "a bridge in the river"
+    ]
+  },
+  {
+    "name": "Wood Sculpture",
+    "id": "woodsculpture",
+    "premium": true,
+    "string_style": "(x), carved wooden figure, photo studio",
+    "examples": [
+      "a dragon",
+      "a red cat",
+      "a bull",
+      "a dinosaur",
+      "a pig",
+      "a lion",
+      "steampunk airship",
+      "baby elephant",
+      "a unicorn",
+      "a bear in a cave"
+    ]
+  },
+  {
+    "name": "Jewelry",
+    "id": "jewelry",
+    "premium": false,
+    "string_style": "(x), Swarovski crystal miniature, photo studio",
+    "examples": [
+      "a baby dragon",
+      "a unicorn",
+      "an elegant carriage",
+      "a magical castle",
+      "a red pig",
+      "a sea monster",
+      "a lion",
+      "a bull",
+      "sphinx",
+      "chinese pot"
+    ]
+  },
+  {
+    "name": "Clay",
+    "id": "clay",
+    "premium": false,
+    "string_style": "(x), plasticine, claymation, photo studio",
+    "examples": [
+      "a magical castle",
+      "zombie robot",
+      "a sea monster",
+      "an alien planet full of vegetation",
+      "haunted house on a hill",
+      "cheerful robot serving coffee",
+      "colored monster",
+      "lion in the savannah",
+      "a toucan on a branch",
+      "an oasis in the desert"
+    ]
+  },
+  {
+    "name": "Low Poly",
+    "id": "lowpoly",
+    "premium": false,
+    "string_style": "(x), low poly",
+    "examples": [
+      "a unicorn in a river",
+      "a magical castle",
+      "hedgehog with sunglasses",
+      "sphinx",
+      "polar bear on a floating iceberg",
+      "lion",
+      "an alien planet full of vegetation",
+      "a dinosaur in the forest",
+      "an oasis in the desert",
+      "old lighthouse by the sea"
+    ]
+  },
+  {
+    "name": "Macro Photo",
+    "id": "macrophoto",
+    "premium": true,
+    "string_style": "(x), macro photography",
+    "examples": [
+      "insect",
+      "hummingbird pollinating",
+      "bee pollinating",
+      "butterfly on a flower",
+      "clock mechanism",
+      "a tiny finch on a branch",
+      "a drop of water on a leaf",
+      "a mushroom",
+      "moss on a trunk",
+      "face of an iguana"
+    ]
+  },
+  {
+    "name": "Product Photo",
+    "id": "productphoto",
+    "premium": false,
+    "string_style": "(x), product photography",
+    "examples": [
+      "a bottle of perfume",
+      "a spectacular burger",
+      "a sports car in a desert",
+      "elegant wrist watch",
+      "new running shoes",
+      "a delicious pizza",
+      "an elegant necklace",
+      "a diamond ring",
+      "a vase of flowers",
+      "a shelf of vanilla cupcakes"
+    ]
   }
 ]
