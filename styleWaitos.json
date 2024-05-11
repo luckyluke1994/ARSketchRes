@@ -4,6 +4,7 @@
     "id": "nostyle",
     "premium": false,
     "string_style": "(x)",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/no_style.png",
     "examples": [
       "mutated creature, pastel color",
       "hybrid between monkey and lion",
@@ -22,6 +23,7 @@
     "id": "creartv1",
     "premium": false,
     "string_style": "(x), trending on artstation",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/creartv1.png",
     "examples": [
       "mutated creature, pastel color",
       "hybrid between monkey and lion",
@@ -40,6 +42,7 @@
     "id": "cinematic",
     "premium": false,
     "string_style": "(x), cinematic",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/cinematic.png",
     "examples": [
       "a futuristic soldier eating in a bar",
       "an alien in a room",
@@ -58,6 +61,7 @@
     "id": "realistic",
     "premium": true,
     "string_style": "(x), photography",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/realistic.png",
     "examples": [
       "a robot in a junkyard",
       "a lion looking at the camera",
@@ -76,6 +80,7 @@
     "id": "illustration",
     "premium": false,
     "string_style": "(x), Dan Mumford",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/illustration.png",
     "examples": [
       "a magical castle",
       "an alien planet full of vegetation",
@@ -94,6 +99,7 @@
     "id": "chromatic",
     "premium": false,
     "string_style": "(x), colorful chromatic",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/chromatic.png",
     "examples": [
       "a cabin on a deserted island",
       "mutated creature",
@@ -112,6 +118,7 @@
     "id": "sketch",
     "premium": false,
     "string_style": "(x), pencil sketch drawing",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/sketch.png",
     "examples": [
       "a dragon on a mountain",
       "a unicorn in a river",
@@ -130,6 +137,7 @@
     "id": "colorfulsketch",
     "premium": true,
     "string_style": "(x), sketch drawing, Lisa Frank",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/colorfulsketch.png",
     "examples": [
       "a unicorn in a river",
       "a magical castle",
@@ -148,6 +156,7 @@
     "id": "coloredsketch",
     "premium": true,
     "string_style": "(x), colored sketch drawing",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/coloredsketch.png",
     "examples": [
       "sea monster",
       "a dragon on a mountain",
@@ -166,6 +175,7 @@
     "id": "watercolor",
     "premium": false,
     "string_style": "(x), watercolor",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/watercolor.png",
     "examples": [
       "a unicorn in a river",
       "a magical castle",
@@ -184,6 +194,7 @@
     "id": "grisaille",
     "premium": false,
     "string_style": "(x), Yoji Shinkawa, grayscale watercolor",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/grisaille.png",
     "examples": [
       "a unicorn in a river",
       "a magical castle",
@@ -202,6 +213,7 @@
     "id": "fluidwatercolor",
     "premium": false,
     "string_style": "(x), carne griffiths",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/fluidwatercolor.png",
     "examples": [
       "a unicorn in a river",
       "a dragon on a mountain",
@@ -220,6 +232,7 @@
     "id": "vividcolors",
     "premium": true,
     "string_style": "(x), Lisa Frank, artgerm",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/vividcolors.png",
     "examples": [
       "a unicorn in a river",
       "a magical castle",
@@ -238,6 +251,7 @@
     "id": "coloringbook",
     "premium": false,
     "string_style": "(x), one line kawaii drawing, bw",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/coloringbook.png",
     "examples": [
       "a dragon on a mountain",
       "a unicorn in a river",
@@ -256,6 +270,7 @@
     "id": "filmnoir",
     "premium": false,
     "string_style": "(x), film noir",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/filmnoir.png",
     "examples": [
       "a dancing cat",
       "a magical castle",
@@ -274,6 +289,7 @@
     "id": "kawaii",
     "premium": false,
     "string_style": "(x), kawaii",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/kawaii.png",
     "examples": [
       "baby dragon",
       "cute mushroom with face",
@@ -292,6 +308,7 @@
     "id": "anime",
     "premium": false,
     "string_style": "(x), anime, cinematic, artgerm",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/anime.png",
     "examples": [
       "woman in a pink sweater",
       "woman portrait",
@@ -310,6 +327,7 @@
     "id": "animev2",
     "premium": true,
     "string_style": "(x), anime, color sketch, artgerm",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/animev2.png",
     "examples": [
       "woman portrait",
       "woman in a pink sweater",
@@ -328,6 +346,7 @@
     "id": "animev3",
     "premium": true,
     "string_style": "(x), colored manga",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/animev3.png",
     "examples": [
       "woman portrait",
       "woman in a pink sweater",
@@ -346,6 +365,7 @@
     "id": "animev4",
     "premium": false,
     "string_style": "(x), bw manga",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/animev4.png",
     "examples": [
       "woman portrait",
       "woman in a pink sweater",
@@ -364,6 +384,7 @@
     "id": "classiccartoon",
     "premium": true,
     "string_style": "(x), disney, artgerm",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/classiccartoon.png",
     "examples": [
       "snow monster on a snowy mountain",
       "cheerful robot serving coffee",
@@ -382,6 +403,7 @@
     "id": "kidscartoon",
     "premium": false,
     "string_style": "(x), kids cartoon",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/kidscartoon.png",
     "examples": [
       "baby dragon",
       "a unicorn in a river",
@@ -400,6 +422,7 @@
     "id": "pixelarthd",
     "premium": true,
     "string_style": "(x), pixel art, highly detailed, 4k",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/pixelarthd.png",
     "examples": [
       "a house in the forest",
       "a sea monster",
@@ -418,6 +441,7 @@
     "id": "pixelart",
     "premium": false,
     "string_style": "(x), pixel art",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/pixelart.png",
     "examples": [
       "a house in the forest",
       "a sea monster",
@@ -436,6 +460,7 @@
     "id": "colorcomic",
     "premium": false,
     "string_style": "(x), color comic",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/colorcomic.png",
     "examples": [
       "a medieval castle",
       "woman portrait",
@@ -454,6 +479,7 @@
     "id": "bwcomic",
     "premium": true,
     "string_style": "(x), bw comic",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/bwcomic.png",
     "examples": [
       "a medieval castle",
       "man portrait",
@@ -472,6 +498,7 @@
     "id": "popart",
     "premium": false,
     "string_style": "(x), pop art",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/popart.png",
     "examples": [
       "a unicorn in a river",
       "alien costume",
@@ -490,6 +517,7 @@
     "id": "poster",
     "premium": true,
     "string_style": "(x), Shepard Fairey",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/poster.png",
     "examples": [
       "a magical castle",
       "bear in the forest",
@@ -508,6 +536,7 @@
     "id": "psychedelic",
     "premium": true,
     "string_style": "(x), psychedelic, Alex Gray",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/psychedelic.png",
     "examples": [
       "a unicorn in a river",
       "cosmic cat",
@@ -526,6 +555,7 @@
     "id": "dream",
     "premium": false,
     "string_style": "(x), josephine wall",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/dream.png",
     "examples": [
       "a magical castle",
       "snow monster on a snowy mountain",
@@ -544,6 +574,7 @@
     "id": "fantasy",
     "premium": true,
     "string_style": "(x), Dan Mumford, josephine wall, Yoji Shinkawa, artgerm",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/fantasy.png",
     "examples": [
       "snow monster on a snowy mountain",
       "futuristic cityscape",
@@ -562,6 +593,7 @@
     "id": "mystical",
     "premium": false,
     "string_style": "(x), james r eads",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/mystical.png",
     "examples": [
       "stairs that lead to infinity",
       "cascade of stars in a mystical forest",
@@ -580,6 +612,7 @@
     "id": "game",
     "premium": true,
     "string_style": "(x), league of legends, cinematic, artgerm",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/game.png",
     "examples": [
       "a magical castle",
       "woman casting a spell",
@@ -598,6 +631,7 @@
     "id": "neon",
     "premium": false,
     "string_style": "(x), neon silhouette",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/neon.png",
     "examples": [
       "robot portrait",
       "a rabbit in a forest",
@@ -616,6 +650,7 @@
     "id": "cyberpunkcartoon",
     "premium": false,
     "string_style": "(x), neonpunk, cartoon",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/cyberpunkcartoon.png",
     "examples": [
       "a car on the road",
       "sphinx",
@@ -634,6 +669,7 @@
     "id": "synthwave",
     "premium": false,
     "string_style": "(x), synthwave, vaporwave",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/synthwave.png",
     "examples": [
       "a car on the road",
       "a unicorn in a river",
@@ -652,6 +688,7 @@
     "id": "cyberpunk",
     "premium": true,
     "string_style": "(x), cyberpunk, hdr",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/cyberpunk.png",
     "examples": [
       "a car on the road",
       "sphinx",
@@ -670,6 +707,7 @@
     "id": "gothicfuturism",
     "premium": false,
     "string_style": "(x), blade runner, Philippe Druillet",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/gothicfuturism.png",
     "examples": [
       "a robot in a junkyard",
       "an alien landscape with buildings",
@@ -688,6 +726,7 @@
     "id": "surrealism",
     "premium": true,
     "string_style": "(x), surrealism, dali painting",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/surrealism.png",
     "examples": [
       "a bridge to another universe",
       "room in a spaceship",
@@ -706,6 +745,7 @@
     "id": "retrofuturism",
     "premium": true,
     "string_style": "(x), retro futurism, Anton Fadeev, artgerm",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/retrofuturism.png",
     "examples": [
       "robot portrait",
       "a bridge to another universe",
@@ -724,6 +764,7 @@
     "id": "darksurrealism",
     "premium": false,
     "string_style": "(x), dali, Andy Kehoe, artgerm",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/darksurrealism.png",
     "examples": [
       "zombie robot",
       "a landscape of floating cubes",
@@ -742,6 +783,7 @@
     "id": "popsurrealism",
     "premium": false,
     "string_style": "(x), James Jean, pop art",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/popsurrealism.png",
     "examples": [
       "woman aviator",
       "a lion looking at the camera",
@@ -760,6 +802,7 @@
     "id": "vangogh",
     "premium": true,
     "string_style": "(x), postimpressionism, van gogh painting",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/vangogh.png",
     "examples": [
       "witch brewing a potion",
       "bike parked on a bridge",
@@ -778,6 +821,7 @@
     "id": "impressionism",
     "premium": false,
     "string_style": "(x), impressionism, Claude Monet painting",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/impressionism.png",
     "examples": [
       "witch brewing a potion",
       "a bridge in the river",
@@ -796,6 +840,7 @@
     "id": "expressionism",
     "premium": false,
     "string_style": "(x), expressionism, Edvard Munch painting",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/expressionism.png",
     "examples": [
       "witch brewing a potion",
       "a magical castle",
@@ -814,6 +859,7 @@
     "id": "renaissance",
     "premium": true,
     "string_style": "(x), leonardo da vinci painting",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/renaissance.png",
     "examples": [
       "a magical castle",
       "an oasis in the desert",
@@ -832,6 +878,7 @@
     "id": "cubism",
     "premium": false,
     "string_style": "(x), cubism, picasso painting",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/cubism.png",
     "examples": [
       "a magical castle",
       "woman portrait",
@@ -850,6 +897,7 @@
     "id": "ukiyoe",
     "premium": false,
     "string_style": "(x), ukiyo e",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/ukiyoe.png",
     "examples": [
       "a sea monster",
       "bear in the forest",
@@ -868,6 +916,7 @@
     "id": "artdeco",
     "premium": true,
     "string_style": "(x), art deco, artgerm",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/artdeco.png",
     "examples": [
       "architectural design",
       "a boat in a port",
@@ -886,6 +935,7 @@
     "id": "naiveart",
     "premium": true,
     "string_style": "(x), naive art",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/naiveart.png",
     "examples": [
       "a magical castle",
       "a dinosaur in the forest",
@@ -904,6 +954,7 @@
     "id": "sticker",
     "premium": false,
     "string_style": "(x), sticker",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/sticker.png",
     "examples": [
       "hedgehog with sunglasses",
       "zombie robot",
@@ -922,6 +973,7 @@
     "id": "vectorart",
     "premium": false,
     "string_style": "(x), vector art",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/vectorart.png",
     "examples": [
       "robot face icon",
       "lion face, black and white icon",
@@ -940,6 +992,7 @@
     "id": "origami",
     "premium": false,
     "string_style": "(x), origami",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/origami.png",
     "examples": [
       "lion",
       "dinosaur in the forest",
@@ -958,6 +1011,7 @@
     "id": "papercut",
     "premium": false,
     "string_style": "(x), papercut, paper quilling",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/papercut.png",
     "examples": [
       "a bridge to another universe",
       "a unicorn in a river",
@@ -976,6 +1030,7 @@
     "id": "wool",
     "premium": false,
     "string_style": "(x), wool amigurumi, photo studio",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/wool.png",
     "examples": [
       "a dinosaur in the forest",
       "a lion looking at the camera",
@@ -994,6 +1049,7 @@
     "id": "textile",
     "premium": true,
     "string_style": "(x), cross stitch, textile",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/textile.png",
     "examples": [
       "mermaid on a rock",
       "a sea monster",
@@ -1012,6 +1068,7 @@
     "id": "porcelainfigurine",
     "premium": false,
     "string_style": "(x), ornamental porcelain miniature, photo studio",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/porcelainfigurine.png",
     "examples": [
       "a unicorn",
       "a sea monster",
@@ -1030,6 +1087,7 @@
     "id": "stainedglass",
     "premium": false,
     "string_style": "(x), stained glass",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/stainedglass.png",
     "examples": [
       "pegasus in the clouds",
       "a unicorn in a river",
@@ -1048,6 +1106,7 @@
     "id": "woodsculpture",
     "premium": true,
     "string_style": "(x), carved wooden figure, photo studio",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/woodsculpture.png",
     "examples": [
       "a dragon",
       "a red cat",
@@ -1066,6 +1125,7 @@
     "id": "jewelry",
     "premium": false,
     "string_style": "(x), Swarovski crystal miniature, photo studio",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/jewelry.png",
     "examples": [
       "a baby dragon",
       "a unicorn",
@@ -1084,6 +1144,7 @@
     "id": "clay",
     "premium": false,
     "string_style": "(x), plasticine, claymation, photo studio",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/clay.png",
     "examples": [
       "a magical castle",
       "zombie robot",
@@ -1102,6 +1163,7 @@
     "id": "lowpoly",
     "premium": false,
     "string_style": "(x), low poly",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/lowpoly.png",
     "examples": [
       "a unicorn in a river",
       "a magical castle",
@@ -1120,6 +1182,7 @@
     "id": "macrophoto",
     "premium": true,
     "string_style": "(x), macro photography",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/macrophoto.png",
     "examples": [
       "insect",
       "hummingbird pollinating",
@@ -1138,6 +1201,7 @@
     "id": "productphoto",
     "premium": false,
     "string_style": "(x), product photography",
+    "previewUrl": "https://raw.githubusercontent.com/luckyluke1994/ARSketchRes/main/aistyles/waitos/productphoto.png",
     "examples": [
       "a bottle of perfume",
       "a spectacular burger",
