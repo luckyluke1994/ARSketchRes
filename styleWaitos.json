@@ -1,0 +1,401 @@
+[
+  {
+    "name": "No Style",
+    "styleId": "nostyle",
+    "iconUrl": "umagic/img_style/van_gogh.webp",
+    "desc": "masterpiece by Van Gogh",
+    "order": 4
+  },
+  {
+    "name": "Cinematic",
+    "styleId": "cinematic",
+    "iconUrl": "umagic/img_style/illustration.webp",
+    "desc": "illustration, minimalism, pastel background",
+    "order": 15
+  },
+  {
+    "name": "Illustration",
+    "styleId": "illustration",
+    "iconUrl": "umagic/img_style/cinematic.webp",
+    "desc": "cinematic, cozy indoor lighting, unreal 5",
+    "order": 19
+  },
+  {
+    "name": "Sketch",
+    "styleId": "sketch",
+    "iconUrl": "umagic/img_style/line_art.webp",
+    "desc": "line art, black and white, illustration, white page",
+    "order": 9
+  },
+  {
+    "name": "CreArt V1",
+    "styleId": "creartv1",
+    "iconUrl": "umagic/img_style/sketch.webp",
+    "desc": "black and white, hand drawn portrait, pencil sketch",
+    "order": 8
+  },
+  {
+    "name": "Realistic",
+    "styleId": "realistic",
+    "iconUrl": "umagic/img_style/sci-f.webp",
+    "desc": "sci-fi, futuristic, detailed, Liam Wong",
+    "order": 18
+  },
+  {
+    "name": "Chromatic",
+    "styleId": "chromatic",
+    "iconUrl": "umagic/img_style/game_engine.webp",
+    "desc": "((Sci-fi, future, (game engine),))",
+    "order": 10
+  },
+  {
+    "name": "Colorful Sketch",
+    "styleId": "colorfulsketch",
+    "iconUrl": "umagic/img_style/pop_art.webp",
+    "desc": "Roy Lichtenstein's iconic pop art style",
+    "order": 14
+  },
+  {
+    "name": "Colored Sketch",
+    "styleId": "coloredsketch",
+    "iconUrl": "umagic/img_style/oil_paint.webp",
+    "desc": "oil painting strokes, best quality, high resolution, original, extremely detailed wallpaper, perfect lighting, (extremely detailed CG:1.2), drawing",
+    "order": 6
+  },
+  {
+    "name": "Watercolor",
+    "styleId": "watercolor",
+    "iconUrl": "umagic/img_style/pixel_art.webp",
+    "desc": "the 32-bit pixel art renders",
+    "order": 23
+  },
+  {
+    "name": "Grisaille",
+    "styleId": "grisaille",
+    "iconUrl": "umagic/img_style/chibi_art.webp",
+    "desc": "character, chibi art, film lighting, soft shadows, rim lighting, Pixar animation",
+    "order": 16
+  },
+  {
+    "name": "Fluid Watercolor",
+    "styleId": "fluidwatercolor",
+    "iconUrl": "umagic/img_style/childlike_drawing.webp",
+    "desc": "illustrated children's drawing, in the style of SMBC, refraction",
+    "order": 17
+  },
+  {
+    "name": "Vivid Colors",
+    "styleId": "vividcolors",
+    "iconUrl": "umagic/img_style/hayao_miyazaki.webp",
+    "desc": "character in Studio Ghibli, Hayao Miyazaki style",
+    "order": 22
+  },
+  {
+    "name": "Coloring Book",
+    "styleId": "coloringbook",
+    "iconUrl": "umagic/img_style/knitted.webp",
+    "desc": "Margo Selby, knitted tapestry",
+    "order": 27
+  },
+  {
+    "name": "Film Noir",
+    "styleId": "filmnoir",
+    "iconUrl": "umagic/img_style/cyberpunk.webp",
+    "desc": "detailed cyberpunk background with neon lights, biopunk, cybernetic, unreal engine, CGI, Syd Mead, Blade Runner, ultra-detailed, 4k",
+    "order": 12
+  },
+  {
+    "name": "Kawaii",
+    "styleId": "kawaii",
+    "iconUrl": "umagic/img_style/salvador_dali.webp",
+    "desc": "masterpiece by Salvador Dali",
+    "order": 24
+  },
+  {
+    "name": "Anime",
+    "styleId": "anime",
+    "iconUrl": "umagic/img_style/junji_ito.webp",
+    "desc": "masterpiece byJunji Ito",
+    "order": 7
+  },
+  {
+    "name": "Anime V2",
+    "styleId": "animev2",
+    "iconUrl": "umagic/img_style/hokusai.webp",
+    "desc": "a painting in the style of Katsushika Hokusai ",
+    "order": 20
+  },
+  {
+    "name": "Anime V3",
+    "styleId": "animev3",
+    "iconUrl": "umagic/img_style/polaroid.webp",
+    "desc": "old polaroids photo",
+    "order": 13
+  },
+  {
+    "name": "Anime V4",
+    "styleId": "animev4",
+    "iconUrl": "umagic/img_style/3d_render.webp",
+    "desc": "3D, ultra-detailed, C4D, octane rendering, blender, 8k, HD",
+    "order": 11
+  },
+  {
+    "name": "Classic Cartoon",
+    "styleId": "classiccartoon",
+    "iconUrl": "umagic/img_style/fujifilm.webp",
+    "desc": "8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3",
+    "order": 25
+  },
+  {
+    "name": "Kids Cartoon",
+    "styleId": "kidscartoon",
+    "iconUrl": "umagic/img_style/frida_kahlo.webp",
+    "desc": "masterpiece by Frida Kahlo",
+    "order": 21
+  },
+  {
+    "name": "Pixel Art HD",
+    "styleId": "pixelarthd",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Pixel Art",
+    "styleId": "pixelart",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Color Comic",
+    "styleId": "colorcomic",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "B&W Comic",
+    "styleId": "bwcomic",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Pop Art",
+    "styleId": "popart",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Poster",
+    "styleId": "poster",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Psychedelic",
+    "styleId": "psychedelic",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Dream",
+    "styleId": "dream",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Fantasy",
+    "styleId": "fantasy",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Mystical",
+    "styleId": "mystical",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Game",
+    "styleId": "game",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Neon",
+    "styleId": "neon",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Cyberpunk Cartoon",
+    "styleId": "cyberpunkcartoon",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Synthwave",
+    "styleId": "synthwave",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Cyberpunk",
+    "styleId": "cyberpunk",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Gothic Futurism",
+    "styleId": "gothicfuturism",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Surrealism",
+    "styleId": "surrealism",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Retro Futurism",
+    "styleId": "retrofuturism",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Dark Surrealism",
+    "styleId": "darksurrealism",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Pop Surrealism",
+    "styleId": "popsurrealism",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Van Gogh",
+    "styleId": "vangogh",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Impressionism",
+    "styleId": "impressionism",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Expressionism",
+    "styleId": "expressionism",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Renaissance",
+    "styleId": "renaissance",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Cubism",
+    "styleId": "cubism",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Ukiyo-e",
+    "styleId": "ukiyoe",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Art Deco",
+    "styleId": "artdeco",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Naïve Art",
+    "styleId": "naiveart",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Sticker",
+    "styleId": "sticker",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Vector Art",
+    "styleId": "vectorart",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Origami",
+    "styleId": "origami",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Paper Cut",
+    "styleId": "papercut",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Wool",
+    "styleId": "wool",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Textile",
+    "styleId": "textile",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  },
+  {
+    "name": "Porcelain Figurine",
+    "styleId": "porcelainfigurine",
+    "iconUrl": "umagic/img_style/city_pop.webp",
+    "desc": "Hiroshi Nagai, city pop, vibrant colors, summer",
+    "order": 26
+  }
+]
